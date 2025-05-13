@@ -1,8 +1,8 @@
-// STICKY NAVBAR
 window.addEventListener("scroll", function () {
-  const header = document.querySelector("header");
+  const header = document.querySelector(".container");
   header.classList.toggle("sticky", window.scrollY > 50);
 });
+
 
 // BACK TO TOP BUTTON
 // Buat tombolnya di HTML (nanti saya bantu), fungsinya di bawah ini
@@ -22,3 +22,5 @@ window.addEventListener("scroll", () => {
 backToTopBtn.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
+
+
