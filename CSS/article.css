@@ -85,3 +85,27 @@ span {
   background-color: #f0f8ff;
   color: #333;
 }
+
+figure.news-photo {
+  margin: 20px 0;
+  text-align: center;
+}
+
+figure.news-photo img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);;
+}
+
+figure.news-photo figcaption {
+  font-size: 14px;
+  color: #666;
+  margin-top: 5px;
+}
+
+figure.news-photo .photo-credit {
+  display: block;
+  font-size: 12px;
+  color: #999;
+}
