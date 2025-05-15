@@ -1,1 +1,12 @@
 # Kelompok-D2
+1. Khuurin Iin I.H (23043010020)
+2. Farah Aulia Azzahra (23043010004)
+3. Emilia Koni Kaka (23043010089)
+4. Vanessa Nova Ria Simbolon (23043010103)
+5. M Dimas Eka A (23043010339)
+6. Audrey Kinanti Noveria (23043010258)
+7. Aisyah Nur Fadillah (23043010242)
+8. Muhammad Wildan (23043010028)
+9. Friska Putri Cahyani (23043010097)
+10. Theodora Zaviena Prabarani (23043010141)
+11. Rasyiid Fadhilah Yusuf (23043010209)
