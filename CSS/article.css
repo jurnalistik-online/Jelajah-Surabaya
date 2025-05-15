@@ -79,10 +79,10 @@ span {
 
 .article-body blockquote {
   font-style: italic;
-  border-left: 5px solid #00aaff;
+  border-left: 5px solid #efb036;
   margin: 20px 0;
   padding: 10px 20px;
-  background-color: #f0f8ff;
+  background-color: #FFE2AE;
   color: #333;
 }
 
